@@ -1,1 +1,2 @@
 # tkuDemo_Init
+detail
